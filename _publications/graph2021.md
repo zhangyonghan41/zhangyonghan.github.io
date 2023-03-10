@@ -1,10 +1,10 @@
 ---
 title: "Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images"
 collection: publications
-permalink: /publication/baron
-conf: 'IEEE Conference on Computer Vision and Pattern Recognition'
-conf_shortname: 'CVPR'
-year: '2023'
+permalink: /publication/graph
+conf: 'International Conference on Computer Vision'
+conf_shortname: 'ICCV'
+year: '2021'
 author: <strong>Size Wu</strong>, Sheng Jin, Wentao Liu, Lei Bai, Chen Qian, Dong Liu, and Wanli Ouyang
 codeurl: https://github.com/wusize/multiview_pose
 paperurl: https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Graph-Based_3D_Multi-Person_Pose_Estimation_Using_Multi-View_Images_ICCV_2021_paper.pdf
