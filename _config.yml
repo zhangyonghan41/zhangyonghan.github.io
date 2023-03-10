@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Size Wu"
+  name             : "Size Wu (吴思泽)"
   avatar           : "photo.png"
-  bio              : "PhD student at NTU"
+  bio              : "PhD student at NTU."
   location         : "Singapore"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=y2S02IcAAAAJ&hl=en"
-  email            :
+  email            : size001@e.ntu.edu.sg
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
