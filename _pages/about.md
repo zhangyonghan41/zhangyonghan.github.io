@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a second-year Ph.D. student at the [School of Computer Science and Engineering](http://scse.ntu.edu.sg/Pages/Home.aspx), Nanyang Technological University, Singapore. I am a member of [MMLab@NTU](https://www.mmlab-ntu.com/), affiliated with the NTU S-Lab, supervised by Professor [Chen Change (Cavan) Loy](http://personal.ie.cuhk.edu.hk/~ccloy/). My resume is [here](/files/resume.pdf).
 
-My current research focus is on open-vocabulary visual recoginition and vision-language models. My prior research focus was on multi-view human pose estimation.
+My current research focus is on open-vocabulary visual recoginition and vision-language models. My prior research focus was on multi-view human pose estimation. I work closely with [Wenwei Zhang](http://zhangwenwei.cn/), [Sheng Jin](https://jin-s13.github.io/) and [Lumin Xu](https://github.com/luminxu).
 
 I have been a code contributor to [MMPose](https://github.com/open-mmlab/mmpose) since 2020, especially for the part of [multi-view pose estimation](https://github.com/open-mmlab/mmpose/tree/master/configs/body/3d_kpt_mview_rgb_img).
 
