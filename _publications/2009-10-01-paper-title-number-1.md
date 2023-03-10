@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 1"
+title: "Aligning Bag of Regions for Open-Vocabulary Object Detection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/baron
+conf: 'IEEE Conference on Computer Vision and Pattern Recognition'
+conf_shortname: 'CVPR'
+year: '2023'
+author: <strong>Size Wu</strong>, Wenwei Zhang, Sheng Jin, Wentao Liu, Chen Change Loy
+codeurl: https://github.com/wusize/ovdet
+paperurl: https://arxiv.org/abs/2302.13996
+projecturl: https://www.mmlab-ntu.com/project/baron/index.html
+# posterlink: /files/mmMOT_poster_final.pdf
+additional: true
+highlight: 'New state of the art on Open-vocabulary COCO/LVIS Benchmark.'
+
+# venue: 'Journal 1'
+# paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
+# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
