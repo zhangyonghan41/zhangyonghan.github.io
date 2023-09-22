@@ -14,9 +14,4 @@ My current research focus is on open-vocabulary visual recoginition and foundati
 
 Recent News
 ------------------------
-
-1 paper is rejected by ICCV2023. (July. 2023)
-
-I am awarded the [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme). (June. 2023)
-
 1 [paper](https://github.com/wusize/ovdet) is accepted by CVPR2023. (Mar. 2023)
