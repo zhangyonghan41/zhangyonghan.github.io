@@ -14,4 +14,6 @@ My current research focus is on open-vocabulary visual recoginition and foundati
 
 Recent News
 ------------------------
-1 [paper](https://github.com/wusize/ovdet) is accepted by CVPR2023. (Mar. 2023)
+1 [paper](https://arxiv.org/pdf/2312.11376.pdf) is accepted by AAAI2024. (Dec. 2023)
+I am awarded [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/). (Jun. 2023)
+1 [paper](https://arxiv.org/pdf/2302.13996.pdf) is accepted by CVPR2023. (Mar. 2023)
