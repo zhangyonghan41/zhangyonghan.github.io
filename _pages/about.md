@@ -12,6 +12,10 @@ I am a second-year Ph.D. student at the [School of Computer Science and Engineer
 My current research focus is on open-vocabulary visual recoginition and foundation models. My prior research focus was on multi-view human pose estimation. I work closely with [Wenwei Zhang](http://zhangwenwei.cn/), [Sheng Jin](https://jin-s13.github.io/) and [Lumin Xu](https://github.com/luminxu).
 
 
+Academic Service
+------------------------
+Reviewer for: TPAMI, IJCV, CVIU and CVPR.
+
 Recent News
 ------------------------
 1 [paper](https://arxiv.org/pdf/2312.11376.pdf) is accepted by AAAI2024. (Dec. 2023)
