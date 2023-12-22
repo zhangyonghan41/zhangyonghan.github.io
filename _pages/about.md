@@ -14,7 +14,7 @@ My current research focus is on open-vocabulary visual recoginition and foundati
 
 Academic Service
 ------------------------
-Reviewer for: TPAMI, IJCV, CVIU and CVPR.
+Reviewer for: TPAMI, IJCV, TIP, CVIU and CVPR.
 
 Recent News
 ------------------------
