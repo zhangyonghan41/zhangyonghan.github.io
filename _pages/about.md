@@ -11,7 +11,7 @@ I am a final-year Master student at the Chongqing Technology and Business Univer
 
 Recent News
 ------------------------
-I opened a github account and uploaded the scripts to create the personal website, as well as the latex code to make my CVs. (December 25th. 2024)
+I opened a [github account](https://github.com/zhangyonghan41) and uploaded the scripts to create the personal website, as well as the latex code to make my CVs. (December 25th. 2024)
 
 I created my personal website, will keep updating useful materials like lecture notes in the future. (December 24th. 2024)
 
