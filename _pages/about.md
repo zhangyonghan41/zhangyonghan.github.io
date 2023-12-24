@@ -11,8 +11,8 @@ I am a final-year Master student at the Chongqing Technology and Business Univer
 
 Recent News
 ------------------------
-I opened a [github account](https://github.com/zhangyonghan41) and uploaded the scripts to create this personal [website](https://github.com/zhangyonghan41/zhangyonghan41.github.io), as well as the [latex code](https://github.com/zhangyonghan41/my_cv) to make my CVs. (December 25th. 2024).
+I opened a [github account](https://github.com/zhangyonghan41) and uploaded the scripts to create this personal [website](https://github.com/zhangyonghan41/zhangyonghan41.github.io), as well as the [latex code](https://github.com/zhangyonghan41/my_cv) to make my CVs. (Dec. 25th, 2024).
 
-I created my personal website, will keep updating useful materials like lecture notes in the future. (December 24th. 2024).
+I created my personal website, will keep updating useful materials like lecture notes in the future. (Dec. 24th, 2024).
 
-I was offered the admission to MQF at SMU, can't wait to come to Singapore! (December 22th, 2024).
+I was offered the admission to MQF at SMU, can't wait to come to Singapore! (Dec. 22th, 2024).
