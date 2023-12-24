@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year Master student at the Chongqing Technology and Business University (CTBU). My major is industrial economics and my prior major as an undergraduate was marketing. I will be pursuing a second master's degree at Sinapore Management University (SMU) from August 2024, under the Master of Science in Quantitative Finance Programme. Currently, I am preparing for FRM and plan to start a degree in Risk Management / Analysis. My resume is [here](/files/zhangyonghan_cv.pdf).
+I am a final-year Master student at the Chongqing Technology and Business University (CTBU). My major is industrial economics and my prior major as an undergraduate was marketing. I will be pursuing a second master's degree at Sinapore Management University (SMU) from August 2024, under the Master of Science in Quantitative Finance (MQF) Programme. Currently, I am preparing for FRM and plan to start a career in Risk Management / Analysis. My resume is [here](/files/zhangyonghan_cv.pdf).
 
 Recent News
 ------------------------
